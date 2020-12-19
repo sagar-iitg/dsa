@@ -1,0 +1,5 @@
+<svg id="light" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <path id="Path_4402" data-name="Path 4402" d="M0,0H54V54H0Z" fill="none"/>
+  <circle id="Ellipse_253" data-name="Ellipse 253" cx="9" cy="9" r="9" transform="translate(18 18)" fill="none" stroke="#0f2b3c" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path id="Path_4403" data-name="Path 4403" d="M3,23.25H5.25M23.25,3V5.25m18,18H43.5m-20.25,18V43.5M8.85,8.85l1.575,1.575M37.65,8.85l-1.575,1.575m0,25.65L37.65,37.65M10.425,36.075,8.85,37.65" transform="translate(3.75 3.75)" fill="none" stroke="#0f2b3c" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+</svg>

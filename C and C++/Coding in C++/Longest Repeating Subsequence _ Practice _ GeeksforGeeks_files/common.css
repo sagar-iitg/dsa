@@ -1,0 +1,56 @@
+.overflowYAuto{
+    /*overflow-y:auto;*/
+}
+
+.set-padding15{
+    padding: 1.5em;
+}
+
+.text-center{
+    text-align:center;
+}
+
+.display-none{
+    display:none;
+}
+
+
+#categoryChangeAlertModal .margin-top-neg{
+    margin-top: -20px !important;
+}
+
+#categoryChangeAlertModal .cross-btn-modal{
+    display:none;color: #000 !important;
+}
+
+#categoryChangeAlertModal .header-modal{
+    background-color: #098043;color: #FFF;
+}
+ 
+.state-error{
+    border: 1px solid red !important;
+}
+
+.padding-1em{
+    padding:1em;
+}
+
+.drag-left{
+    float: left;
+}
+
+.sub-cats-name-section .margin-set{
+    margin-top: 4px;
+    margin-left: 5px;
+}
+
+@media screen and (min-width: 360px) {
+    .batchCategoryAddDiv .addTracks{
+        float: right;
+        margin: 1.2em;
+    }
+
+    .batchCategoryAddDiv .subTabContentSortable li  div.col-md-3{
+        float:left !important;
+    }
+}
