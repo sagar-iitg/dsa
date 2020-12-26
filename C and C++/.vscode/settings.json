@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "ostream": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "iostream": "cpp"
     },
     "code-runner.clearPreviousOutput": true,
     "code-runner.runInTerminal": true,

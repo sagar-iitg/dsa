@@ -10,7 +10,7 @@ class sol
 public:
     int n;
 
-    void SieveOfEratosthenes(int n)
+    void SieveOfEratosthenes_optimized(int n)
     {
         bool prime[n + 1];
         memset(prime, true, sizeof(prime));
@@ -42,7 +42,7 @@ int main()
     cout << "-------------" << endl;
     cout << "prime no between 1 to "
          << " is :  " << endl;
-    obj.SieveOfEratosthenes(obj.n);
+    obj.SieveOfEratosthenes_optimized(obj.n);
     cout << endl
          << "-------------" << endl;
     return 0;

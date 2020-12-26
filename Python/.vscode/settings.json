@@ -1,6 +1,5 @@
 {
     "code-runner.clearPreviousOutput": true,
     "code-runner.runInTerminal": true,
-    "code-runner.saveFileBeforeRun": true,
-    "python.autoComplete.addBrackets": true
+    "code-runner.saveFileBeforeRun": true
 }

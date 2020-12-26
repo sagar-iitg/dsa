@@ -1,0 +1,6 @@
+OOPs concept
+
+Class is like a blueprint for an object.
+
+
+
