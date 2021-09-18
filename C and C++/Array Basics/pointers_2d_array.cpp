@@ -37,11 +37,8 @@ int main(){
     cout<<"&arr[0][0] : "<<&arr[0][0]<<endl;
     cout<<"p          : "<<p<<endl;
     cout<<"*arr       : "<<*arr<<endl;
-    
-  
-
-
-
-
+    cout<<"*arr[0]       : "<<*arr[0]<<endl;
 
 }
+
+
