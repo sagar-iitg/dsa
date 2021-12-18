@@ -1,0 +1,8 @@
+
+
+
+Data Structures Overview
+
+we use data structures to store data in an efficient way
+
+we often have the intuition: if we want to make an algorithm 
