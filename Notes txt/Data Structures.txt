@@ -12,5 +12,11 @@ make every calculation as fast as possible
 
 BUT algorithms can be boosted up by proper data structures.
 
+data structures makes sure the running time will be better
+
+"Bad Programmers worry about the code. Good Programmers worry about 
+data structures and their relationships."
+
+
 
  
