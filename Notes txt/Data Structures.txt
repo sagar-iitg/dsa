@@ -5,4 +5,12 @@ Data Structures Overview
 
 we use data structures to store data in an efficient way
 
-we often have the intuition: if we want to make an algorithm 
+we often have the intuition: if we want to make an algorithm fast, we have to ooptimize it.
+(fewer operations, avoid nested for loops etc.)
+
+make every calculation as fast as possible
+
+BUT algorithms can be boosted up by proper data structures.
+
+
+ 
